@@ -91,6 +91,9 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Sketchup
 AutoSave_*
 *~.skp
 
+# Mac bullshit
+.DS_Store
